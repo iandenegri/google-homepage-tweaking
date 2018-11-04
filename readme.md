@@ -1,0 +1,1 @@
+# Setting up a read me for this project. Just grabbing the homepage off google and messing with the styling on it for some front end practice.
