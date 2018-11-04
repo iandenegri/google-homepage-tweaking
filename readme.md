@@ -1,1 +1,4 @@
-# Setting up a read me for this project. Just grabbing the homepage off google and messing with the styling on it for some front end practice.
+# What is this?
+
+Just recreating something similar to the Google Homepage using raw CSS And HTML. 
+NO outside resources or libraries used.
